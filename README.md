@@ -38,8 +38,7 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
   - [Sprint 1](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/1)
   - [Sprint 2](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/2)
   - [Sprint 3](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/3)
-
-
+<div> <img src='"C:\Users\PC\Pictures\Saved Pictures\iphone-15-pro-max-black-1.jpg"'/></div>
    
 
 
