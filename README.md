@@ -3,7 +3,7 @@
 
 - Sinh viên [thực hiện](:)
 
-- Dương Minh Triết [21DH114226](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4.git)
+- Dương Minh Triết [21DH114226](https://www.facebook.com/tran.anhkhoa.180410)
 
 - Trần Anh Khoa [21DH114427](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4.git)
 
