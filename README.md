@@ -33,9 +33,9 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
    
    </p>
    <div><h2>Chức năng thực hiện</h2></div>
-   * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-   * You shouldn't be doing the same tasks over and over like creating a README from scratch
-   * You should implement DRY principles to the rest of your life :smile:
+  - [Sprint 1](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/1)
+  - [Sprint 2](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/2)
+  - [Sprint 3](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/3)
 
 
    
