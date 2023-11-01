@@ -1,11 +1,11 @@
 <h1  align="center">Đề tài: Web bán điện thoại</h1>
-<h3 align="right">Giảng viên hướng dẫn: Ths.Nguyễn Tấn Khoa</h3>
+Giảng viên hướng dẫn: Ths.Nguyễn Tấn Khoa
 
-<h3 align="right"> Sinh viên [thực hiện](:)</h3>
+ Sinh viên [thực hiện](:)
 
-<h3 align="right">- Dương Minh Triết [21DH114226](https://www.facebook.com/profile.php?id=100022325881183) )</h3>
+- Dương Minh Triết [21DH114226](https://www.facebook.com/profile.php?id=100022325881183) )
 
-<h3 align="right">- Trần Anh Khoa [21DH114427](https://www.facebook.com/tran.anhkhoa.180410)</h3>
+- Trần Anh Khoa [21DH114427](https://www.facebook.com/tran.anhkhoa.180410)
 
 - Trần Văn Tuấn [21DH114558](https://www.facebook.com/profile.php?id=100044514202977)
 
