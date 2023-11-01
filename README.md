@@ -14,6 +14,7 @@
   <div><h2>Các công nghệ sử dụng</h2></div>
  <div style ={display : flex}>
     <img src='https://knackforge.com/wp-content/uploads/2022/11/Benefits-of-ReactJS.jpg'/>
+   <img src='https://knackforge.com/wp-content/uploads/2022/11/Benefits-of-ReactJS.jpg'/>
   </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
