@@ -30,13 +30,9 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="90"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="90" height="90"/> </a>
  </div>
-   <div><h2>Vai trò của thành viên</h2></div>
-   | Tên Thành Viên | Vai trò |
-| ------ | ------ |
-| Phạm Hoàng Phát  | Product Owner, Dev |
-| Trần Anh Khoa    | Dev |
-| Trần Văn Tuấn    | Scum Master, Dev |
-| Dương Minh Triết | Team Leader, Dev |
+   <div><h2>Chức năng thực hiện</h2></div>
+    [Danh sách các chức năng thực hiện](https://github.com/rahuldkjain/github-profile-readme-generator)
+   
 
 
 </p>
