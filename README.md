@@ -1,5 +1,5 @@
 <h1  align="center">Đề tài: Web bán điện thoại</h1>
-Giảng viên hướng dẫn: Ths.Nguyễn Tấn Khoa
+<h3 align="right"> Giảng viên hướng dẫn: Ths.Nguyễn Tấn Khoa </h3>
 
  Sinh viên [thực hiện](:)
 
