@@ -10,7 +10,7 @@
 - Trần Văn Tuấn [21DH114558](https://www.facebook.com/profile.php?id=100044514202977)
 
 - Phạm Hoàng Phát [21DH113980](https://www.facebook.com/hphat.031)
-- <div>
+<div>
   <div><h2>Giới thiệu đề tài</h2></div>
  <div>
     Nhóm bạn trẻ muốn khởi nghiệp kinh doanh về các thiết bị điện tử và công nghệ,lựa chọn của các bạn và kinh doanh về điện thoại di động.
