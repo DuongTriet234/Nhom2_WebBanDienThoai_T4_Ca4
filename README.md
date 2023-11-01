@@ -3,13 +3,13 @@
 
 - Sinh viên [thực hiện](:)
 
-- Dương Minh Triết [21DH114226](https://www.facebook.com/tran.anhkhoa.180410)
+- Dương Minh Triết [21DH114226](https://www.facebook.com/profile.php?id=100022325881183)
 
-- Trần Anh Khoa [21DH114427](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4.git)
+- Trần Anh Khoa [21DH114427](https://www.facebook.com/tran.anhkhoa.180410)
 
-- Trần Văn Tuấn [21DH114558](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4.git)
+- Trần Văn Tuấn [21DH114558](https://www.facebook.com/profile.php?id=100044514202977)
 
-- Phạm Hoàng Phát [21DH113980](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4.git)
+- Phạm Hoàng Phát [21DH113980](https://www.facebook.com/hphat.031)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
