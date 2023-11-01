@@ -47,6 +47,7 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
 | ----------------- | ------------------------------------------------------------------ |
 | Màu đen | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 | Màu trắng | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Màu xanh đen | ![#242C3F](https://via.placeholder.com/10/242C3F?text=+) #242C3F |
 
 
 
