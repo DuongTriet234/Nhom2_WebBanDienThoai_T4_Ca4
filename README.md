@@ -50,7 +50,7 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
 | Màu xanh đen | ![#242C3F](https://via.placeholder.com/10/242C3F?text=+) #242C3F |
 
 
-
+ <div><h2>Màn hình giao diện </h2></div>
 <div> 
       <div> <img src='https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/assets/147599588/315af5c0-8859-4964-bd91-c0b8354990ac'/> 
       </div>
