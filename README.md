@@ -1,7 +1,7 @@
 <h1  align="center">Đề tài: Web bán điện thoại</h1>
 <h3 align="right">Giảng viên hướng dẫn: Ths.Nguyễn Tấn Khoa</h3>
 
-- Sinh viên [thực hiện](:)
+<h1>- Sinh viên [thực hiện](:)</h1>
 
 - Dương Minh Triết [21DH114226](https://www.facebook.com/profile.php?id=100022325881183)
 
