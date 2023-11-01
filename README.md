@@ -24,7 +24,7 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
 </div>
 <h3 align="left">Công nghệ sử dụng</h3>
 <p align="left">
- <div display = "flex" , marginLeft = "20px">
+ <div display = "flex" , margin-left = "20px">
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="90" height="90"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="90" height="90"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="90"/> </a> 
