@@ -28,6 +28,6 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"  margin-left = "20px"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="90" height="90"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"  margin-left = "20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="90" height="90"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"  margin-left = "20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="90"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  margin-left = "20px"s> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="90" height="90"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  margin-left = "1000px"s> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="90" height="90"/> </a>
  </div>
 </p>
