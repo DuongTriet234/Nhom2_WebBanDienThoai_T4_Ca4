@@ -30,8 +30,9 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="90"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="90" height="90"/> </a>
  </div>
-   <div><h2>Chức năng thực hiện</h2></div>
+   
    </p>
+   <div><h2>Chức năng thực hiện</h2></div>
    * Your time should be focused on creating something amazing. A project that solves a problem and helps others
    * You shouldn't be doing the same tasks over and over like creating a README from scratch
    * You should implement DRY principles to the rest of your life :smile:
