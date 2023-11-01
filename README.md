@@ -3,7 +3,7 @@
 
  Sinh viên [thực hiện](:)
 
-- Dương Minh Triết [21DH114226](https://www.facebook.com/profile.php?id=100022325881183) )
+- Dương Minh Triết [21DH114226](https://www.facebook.com/profile.php?id=100022325881183) 
 
 - Trần Anh Khoa [21DH114427](https://www.facebook.com/tran.anhkhoa.180410)
 
