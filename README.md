@@ -41,14 +41,13 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
   - [Sprint 2](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/2)
   - [Sprint 3](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/milestone/3)
 
-  ## Màu sử dụng trong giao diện
+  <div><h2>Màu sử dụng trong giao diện</h2></div>
 
 | Màu sắc            | Tham chiếu                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Màu đen | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 | Màu trắng | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
 
 
 
