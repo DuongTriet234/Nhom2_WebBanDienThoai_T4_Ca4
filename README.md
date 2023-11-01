@@ -53,7 +53,7 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
 
 
 <div> 
-      <div> ![image](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/assets/147599588/315af5c0-8859-4964-bd91-c0b8354990ac)</div>
+      <div>https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/assets/147599588/315af5c0-8859-4964-bd91-c0b8354990ac</div>
        <div>![image](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/assets/147599588/b281c7ce-1095-4037-a2c8-b10e0fe9220a)</div>
        <div>![image](https://github.com/DuongTriet234/Nhom2_WebBanDienThoai_T4_Ca4/assets/147599588/f419bdf1-c9cb-48b9-ba7f-3c24d8813016)</div>
     </div>
