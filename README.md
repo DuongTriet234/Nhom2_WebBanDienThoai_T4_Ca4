@@ -31,7 +31,16 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="90" height="90"/> </a>
  </div>
    <div><h2>Chức năng thực hiện</h2></div>
-    [Danh sách các chức năng thực hiện](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - Đăng Nhập
+  - Đăng Ký
+  - Xem trang chủ
+  - Xem danh sách sản phẩm
+  - Xem chi tiết sản phẩm
+  - Quản lý sản phẩm(Thêm, xóa)
+  - Đăng xuất
+  - Quản lý khách hàng(Thêm, xóa)
+
+
    
 
 
