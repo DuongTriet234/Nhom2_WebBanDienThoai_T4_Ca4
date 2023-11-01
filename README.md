@@ -11,7 +11,7 @@
 
 - Phạm Hoàng Phát [21DH113980](https://www.facebook.com/hphat.031)
 <div>
-
+  <div><h2>Giới thiệu đề tài</h2></div>
  <div>
     Nhóm bạn trẻ muốn khởi nghiệp kinh doanh về các thiết bị điện tử và công nghệ,lựa chọn của các bạn và kinh doanh về điện thoại di động.
 
@@ -22,7 +22,7 @@ Hệ thống phải đảm bảo cho khách hàng có thể truy cập vào tran
 Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý các hoạt động kinh doanh như quản lý các sản phẩm tồn trong kho, quản lý các đơn đặt hàng, các tình trạng giao hàng,...
   </div>
 </div>
-  <div><h2>Giới thiệu đề tài</h2></div>
+  <div><h2>Công nghệ thực hiện</h2></div>
 <p align="left">
  <div >
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="90" height="90"/> </a>
