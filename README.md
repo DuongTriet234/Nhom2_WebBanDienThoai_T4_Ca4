@@ -62,7 +62,7 @@ Ngoài ra hệ thống cần phân hệ để đảm bảo cho việc quản lý
 <div>
   <div><h2>Source code đồ án</h2></div>
  <div>
-    Phạm Hoàng Phát [21DH113980](https://www.facebook.com/hphat.031)
+   - [Link](https://www.facebook.com/hphat.031)
   </div>
 </div>
 
